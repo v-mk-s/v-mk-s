@@ -13,6 +13,6 @@ under the program "Data Science, Machine & Deep Learning".
 
 Sharing news, study and life on <a href="https://telegram.me/vlamelni_rai">Telegram channel</a>
 
-Communicate on <a href="https://telegram.me/v_mk_s">Telegram</a>
+Chat on <a href="https://telegram.me/v_mk_s">Telegram</a>
 
-Sharing photos in <a href="https://www.instagram.com/v_mk_s/">Instagram</a>
+Sharing photos on <a href="https://www.instagram.com/v_mk_s/">Instagram</a>
