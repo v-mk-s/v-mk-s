@@ -1,4 +1,3 @@
-# vlamelni
 ML Engineer – ADIS | Competitive programming
 
 # <a href="https://linkedin.com/in/v-mk-s">Hi, I'm Vladislav</a>
