@@ -1,7 +1,7 @@
 # vlamelni
 ML Engineer – ADIS | Competitive programming
 
-# Hi, I'm Vladislav <a href="https://linkedin.com/in/v-mk-s">LinkedIn</a>
+# <a href="https://linkedin.com/in/v-mk-s">Hi, I'm Vladislav</a>
 
 I am developing an ML-project Automatic Drone Inspection Service (ADIS). I am 
 studying at the Bauman Moscow State Technical University, mathematical modelling 
