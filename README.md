@@ -11,7 +11,7 @@ under the program "Data Science, Machine & Deep Learning".
 
 ##  Find me around the web:
 
-Sharing news, study and life on <a href="https://www.kaggle.com/vlamelni_rai">Telegram channel</a>
+Sharing news, study and life on <a href="https://telegram.me/vlamelni_rai">Telegram channel</a>
 
 Communicate on <a href="https://telegram.me/v_mk_s">Telegram</a>
 
