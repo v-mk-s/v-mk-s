@@ -15,3 +15,5 @@ Sharing news, study and life on <a href="https://telegram.me/vlamelni_rai">Teleg
 Chat on <a href="https://telegram.me/v_mk_s">Telegram</a>
 
 Sharing photos on <a href="https://www.instagram.com/v_mk_s/">Instagram</a>
+
+Work profile on <a href="https://www.linkedin.com/in/v-mk-s/">LinkedIn</a>
