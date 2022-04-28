@@ -4,7 +4,7 @@ DL Researcher – ADIS | Competitive programming
 
 I am developing an DL-project Automatic Drone Inspection Service (ADIS). I am 
 studying at the Bauman Moscow State Technical University, mathematical modelling 
-department (FN12), 3rd year and at the University of Artificial Intelligence 
+department (FS12), 3rd year and at the University of Artificial Intelligence 
 under the program "Data Science, Machine & Deep Learning". 
 
 
