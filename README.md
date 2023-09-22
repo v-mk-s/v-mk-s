@@ -2,7 +2,7 @@ DL Researcher – ADIS | Competitive programming
 
 # <a href="https://linkedin.com/in/v-mk-s">Hi, I'm Vladislav</a>
 
-I am studying at the Bauman Moscow State Technical University, mathematical modelling department (FS12), 4rd year. I graduated from VK Center under the program "ML Developer" & the University of Artificial Intelligence under the program "Data Science, Machine & Deep Learning". I develop the <a href="https://github.com/asocial-graph">Social Graph</a> product.
+I am studying at the Bauman Moscow State Technical University, mathematical modelling department (FS12), 4rd year. I graduated from VK Center under the program "ML Developer" & the University of Artificial Intelligence under the program "Data Science, Machine & Deep Learning".
 
 
 ##  Find me around the web:
